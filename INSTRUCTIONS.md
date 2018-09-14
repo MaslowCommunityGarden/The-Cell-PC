@@ -1,3 +1,11 @@
+Build videos can be found here: 
+
+[![Part 1](http://img.youtube.com/vi/ACmgTYumGb8/0.jpg)](http://www.youtube.com/watch?v=ACmgTYumGb8)
+
+and here:
+
+[![Part 2](http://img.youtube.com/vi/0SfW8sIDLik/0.jpg)](http://www.youtube.com/watch?v=0SfW8sIDLik)
+
 This PC case consists of three basic shapes you need to cut on your Maslow:
 
 1. side1.dxf
