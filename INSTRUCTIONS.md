@@ -15,7 +15,9 @@ Create holding tabs - I used six along the outline and at least two per hole.
 
 The smaller holes can be milled out using a 'pocket' function.
 
+
 ![Estlcam example](https://github.com/MaslowCommunityGarden/The-Cell-PC/blob/master/estlcam1.jpg)
+
 
 Cut six spacers out of 20x20mm stock - their length mainly depends on the height of your PC components.
 
