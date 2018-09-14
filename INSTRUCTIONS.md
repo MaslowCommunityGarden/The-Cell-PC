@@ -1,4 +1,4 @@
-This case consists of three basic shapes you need to cut on your Maslow:
+This PC case consists of three basic shapes you need to cut on your Maslow:
 
 1. side1.dxf
 2. side2.dxf which is the same basic outline but the Voronoi pattern inside is different to the one in side1.dxf
